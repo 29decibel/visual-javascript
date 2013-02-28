@@ -5,3 +5,7 @@
 * every time user type a expression, then below will show the graph of the object
 
 > I know, I am boring...
+
+## Resources inspired me
+http://stackoverflow.com/questions/650764/how-does-proto-differ-from-constructor-prototype
+http://www.mollypages.org/misc/js.mp
