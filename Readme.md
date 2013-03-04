@@ -9,3 +9,4 @@
 ## Resources inspired me
 http://stackoverflow.com/questions/650764/how-does-proto-differ-from-constructor-prototype
 http://www.mollypages.org/misc/js.mp
+http://esprima.org/
